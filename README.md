@@ -1,14 +1,13 @@
-**Restaurant Database (DB Microsoft Access)
-**
-Overview
+--------------------------------------------------------------------------------------------------------------------
+**Restaurant Database (DB Microsoft Access)**
 
-This project is a Microsoft Access database designed to manage core restaurant operations, including orders, menu items, customers, supplies and staff. It demonstrates how relational database design can be used to organize and query business data efficiently.
+Overview: This project is a Microsoft Access database designed to manage core restaurant operations, including orders, menu items, customers, supplies and staff. It demonstrates how relational database design can be used to organize and query business data efficiently.
 
 The original dataset has been anonymized and replaced with sample data for portfolio and demonstration purposes.
 
---------------------------------------------------------------------------------------------------------------------
 Credits: Database structure was taught by Alex Araujo
 Project Date: October 2025
+
 --------------------------------------------------------------------------------------------------------------------
 Features
 Manage customer records
