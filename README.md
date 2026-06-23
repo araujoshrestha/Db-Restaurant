@@ -5,8 +5,8 @@ Overview: This project is a Microsoft Access database designed to manage core re
 
 The original dataset has been anonymized and replaced with sample data for portfolio and demonstration purposes.
 
-Credits: Database structure was taught by Alex Araujo
-Project Date: October 2025
+Credits: Database structure was taught by Alex Araujo | 
+Project Date: August-October 2025
 
 --------------------------------------------------------------------------------------------------------------------
 Features
